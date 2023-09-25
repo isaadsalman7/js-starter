@@ -15,4 +15,8 @@ let isLoggedIn = false
 // boolean => true/false
 // null => standalone value
 // undefined => 
-// symbol 
+// symbol => unique
+
+// object 
+
+console.log(typeof undefined)
