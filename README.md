@@ -1,0 +1,2 @@
+# js-starter
+Learning JavaScript
